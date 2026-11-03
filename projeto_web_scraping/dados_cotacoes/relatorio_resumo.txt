@@ -1,0 +1,20 @@
+RELATÓRIO - COTAÇÕES DE MOEDAS EM RELAÇÃO AO REAL
+Data da execução: 03/11/2026 08:47
+Fonte: API PTAX do Banco Central do Brasil
+Período de consulta: últimos 30 dias
+
+RESUMO DOS DADOS
+Euro (EUR) | Período: 05/10/2026 a 30/10/2026 | Mínima: R$ 5.5714 | Máxima: R$ 6.2728 | Média: R$ 5.7311
+Libra Esterlina (GBP) | Período: 05/10/2026 a 30/10/2026 | Mínima: R$ 6.5732 | Máxima: R$ 7.4885 | Média: R$ 6.8111
+Iene Japonês (JPY) | Período: 05/10/2026 a 30/10/2026 | Mínima: R$ 0.0314 | Máxima: R$ 0.0356 | Média: R$ 0.0324
+
+VARIAÇÃO PERCENTUAL NO PERÍODO
+Euro (EUR): +8.20%
+Libra Esterlina (GBP): +10.12%
+Iene Japonês (JPY): +9.20%
+
+CONCLUSÃO AUTOMÁTICA (REVISAR ANTES DA ENTREGA)
+A maior variação positiva foi observada em Libra Esterlina (GBP) (+10.12%).
+A menor variação foi observada em Euro (EUR) (+8.20%).
+As variações representam a diferença entre a primeira e a última cotação de venda disponível no período consultado. Os resultados descrevem o intervalo analisado e não garantem tendências futuras.
+A matriz de correlação compara o comportamento conjunto das cotações nas datas coincidentes. Correlação não significa causalidade.
